@@ -5,4 +5,6 @@ DOORS is a popular game on Roblox created by a person named LSPLASH, the game's 
 
 I've made it my mission to get assets from the DOORS game and put them in a kit (model file) so other people can have it and guess what.. It's also for free..
 
-Make sure to join the discord server if you have any questions for Redition (The Creator of the Kit) or need a tutorial on how to insert the kit into your game.
+Make sure to join the **[Discord Server](https://discord.gg/AQR7WCYvVY)** if you have any questions for Redition (The Creator of the Kit) or need a tutorial on how to insert the kit into your game.
+
+Enjoy the kit..
